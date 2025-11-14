@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Bienvenue sur NGAS TV",
+        "description": "Dernières actualités, vidéos et reportages.",
+        "image": "https://picsum.photos/600/400?1",
+        "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "gallery": [
+            "https://picsum.photos/500/300?11",
+            "https://picsum.photos/500/300?12"
+        ]
+    },
+    {
+        "title": "Actualité du jour",
+        "description": "Résumé complet des événements importants.",
+        "image": "https://picsum.photos/600/400?2",
+        "video": "https://www.youtube.com/watch?v=ysz5S6PUM-U",
+        "gallery": [
+            "https://picsum.photos/500/300?21",
+            "https://picsum.photos/500/300?22"
+        ]
+    },
+    {
+        "title": "Magazine Culturel",
+        "description": "Découverte de talents et d’artistes.",
+        "image": "https://picsum.photos/600/400?3",
+        "video": null,
+        "gallery": [
+            "https://picsum.photos/500/300?31",
+            "https://picsum.photos/500/300?32",
+            "https://picsum.photos/500/300?33"
+        ]
+    }
+]
